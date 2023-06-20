@@ -2,7 +2,7 @@
 
 **Generating Chinese Folk Tunes – using RNN** 
 
-This project uses Recurrent Neural Network for Chinese Folk generation. I will train a model to learn the patterns in raw sheet in ABC notation, which generates music. 
+The project uses Recurrent Neural Network based on LSTM architecture for Chinese Folk generation. I will train a model to learn the patterns in raw sheets in ABC notation, which generates music.
 
 ## **Results** ##
 
@@ -14,8 +14,7 @@ Chinese Folk Music
 
 The dataset is collected from (link: http://abcnotation.com/) that shows how music can be represented succinctly in across a few key dimensions: Key(scale), Beat, Note (and melody). This site includes resources to major contributions of various music datasets transcribed in the ABC format.
 
-As a lover of folk tunes, particularly Chinese tunes, I found this dataset immensely helpful.
-https://ifdo.ca/~seymour/runabc/top.html 
+As a lover of folk tunes, particularly Chinese tunes, I found this dataset immensely helpful.(https://ifdo.ca/~seymour/runabc/top.html)
 
 ## Main Code Structure and Explanation ##
 
