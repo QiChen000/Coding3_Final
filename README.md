@@ -2,6 +2,8 @@
 
 **Generating Chinese Folk Tunes – using RNN** 
 
+https://github.com/QiChen000/Coding3_Final/tree/main
+
 As an experienced traveler who has visited over 50 countries, I have found it difficult to learn about local music while on the road, often resorting to playing my own personal playlists on repeat. The prospect of having access to a location-based service that generates local music is an exciting one. Such a service would not only enhance the audio-visual experience of a tourist during their journey, but also provide insight into the local music culture. In an effort to generate Chinese folk music, I have begun collecting music datasets from various countries, starting with China.
 
 The project uses Recurrent Neural Network based on LSTM architecture for Chinese Folk generation. I will train a model to learn the patterns in raw sheets in ABC notation, which generates music.
