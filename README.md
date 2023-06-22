@@ -8,7 +8,7 @@ The project uses Recurrent Neural Network based on LSTM architecture for Chinese
 
 ## **Results** ##
 
-See the video at：[here]()
+See the video at：[here](https://youtu.be/gT-QT2z902s)
 
 ## Datasets ##
 
