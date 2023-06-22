@@ -18,7 +18,7 @@ Chinese Folk Music
 
 The dataset is collected from (link: http://abcnotation.com/) that shows how music can be represented succinctly in across a few key dimensions: Key(scale), Beat, Note (and melody). This site includes resources to major contributions of various music datasets transcribed in the ABC format.
 
-As a lover of folk tunes, particularly Chinese tunes, I found this dataset immensely helpful.(https://ifdo.ca/~seymour/runabc/top.html)
+As a lover of folk tunes, particularly Chinese tunes, I found this dataset immensely helpful.(https://ifdo.ca/~seymour/runabc/top.html) (https://ifdo.ca/~seymour/runabc/esac/HAN2.abc) 
 
 ## Main Code Structure and Explanation ##
 
